@@ -61,5 +61,5 @@ char checkPass(char *param_1)
 ```
 ## Solutions
 There are two solutions to bypass this check without modifying the code:
-- [Rewrite the password that is written in the if conditions of the checkPass function (very easy, not very interesting)](./solutions/solution1.md)
-- Exploit a vulnerability in the algorithm and create a keygen
+- [Rewrite the password that is written in the if conditions of the checkPass function](solution1.md)
+- [Exploit a critical logic vulnerability](./solution2.md)
