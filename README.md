@@ -1,4 +1,5 @@
 # Level1 crackmes keygen
+![solution2_keygen.png](solutions/images/solution2_keygen.png)
 ### Reverse engineering programs used:
 - Ghidra
 
